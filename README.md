@@ -1,4 +1,4 @@
-# Star Wars game!
+# Star Wars quiz!
 ### Feito em Vue consumindo a api do https://swapi.co
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
