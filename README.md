@@ -1,5 +1,5 @@
 # Star Wars game!
-### Feito em Vue consumendo a api do https://swapi.co
+### Feito em Vue consumindo a api do https://swapi.co
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
